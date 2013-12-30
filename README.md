@@ -23,3 +23,17 @@ To use an environment, run:
 Once finished, run:
 
   $ deactivate
+
+==========
+
+updated with .gitignore:
+
+venv
+*.pyc
+staticfiles
+
+==========
+
+the project is launched in the sub directory?
+
+but failed so far
