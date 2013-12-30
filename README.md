@@ -37,3 +37,9 @@ staticfiles
 the project is launched in the sub directory?
 
 but failed so far
+
+==========
+
+the test app can be found at:
+
+vast-shore-4914.heroku.com
