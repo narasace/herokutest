@@ -43,3 +43,7 @@ but failed so far
 the test app can be found at:
 
 vast-shore-4914.heroku.com
+
+==========
+
+local: ~/django/herokutest
